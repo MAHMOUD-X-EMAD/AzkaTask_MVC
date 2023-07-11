@@ -1,0 +1,1161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AzkaTask_Solution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AzkaTask_Solution.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\css\\custom-responsive.css",
+      "PackagePath": "staticwebassets\\assets\\custom\\css\\custom-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\custom\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\css\\fables-icons.css",
+      "PackagePath": "staticwebassets\\assets\\custom\\css\\fables-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\demo\\demo1.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\demo\\demo1.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\demo\\demo2.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\demo\\demo2.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\demo\\demo3.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\demo\\demo3.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\demo\\demo4.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\demo\\demo4.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\fonts\\fables.eot",
+      "PackagePath": "staticwebassets\\assets\\custom\\fonts\\fables.eot"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\fonts\\fables.svg",
+      "PackagePath": "staticwebassets\\assets\\custom\\fonts\\fables.svg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\fonts\\fables.ttf",
+      "PackagePath": "staticwebassets\\assets\\custom\\fonts\\fables.ttf"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\fonts\\fables.woff",
+      "PackagePath": "staticwebassets\\assets\\custom\\fonts\\fables.woff"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\Article-Writing.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\Article-Writing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\Article-Writing2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\Article-Writing2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\France.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\France.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\IMG_8573-1078.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\IMG_8573-1078.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\big-overlay.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\big-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-cat6.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-cat6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-detials.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-detials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-teaser-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-teaser-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-teaser-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-teaser-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-xl-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-xl-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\blog-xl.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\blog-xl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\business-support.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\business-support.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\bussiness.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\bussiness.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg6.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg7.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\cat-larg8.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\cat-larg8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\choose-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\choose-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\choose-us-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\choose-us-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\choose-us-index.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\choose-us-index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\conference-room-768441_1920.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\conference-room-768441_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\contact-caption-back.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\contact-caption-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\counter-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\counter-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\england.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\england.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\fables-logo.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\fables-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\footer-back.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\footer-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery-timeline1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery-timeline1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery-timeline2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery-timeline2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery-timeline3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery-timeline3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery-timeline4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery-timeline4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery-timeline5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery-timeline5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery2-timeline.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery2-timeline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-center.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-center.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-slider.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\history-video2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\history-video2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\hostory-col-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\hostory-col-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\hp_innovacion2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\hp_innovacion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-overlay.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-products-overlay.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-products-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-services-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-services-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-testimonial5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-testimonial5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index-video.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index2-overlay.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index2-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\index3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\index3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\lamp.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\laptop-1209008.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\laptop-1209008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\magazine-2559842 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\magazine-2559842 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\magazine-2559842.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\magazine-2559842.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\man-image.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\man-image.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry-sm-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry-sm-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry6.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry7.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry8.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\masonry9.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\masonry9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\mission-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\mobile-apps.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\mobile-apps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\overlay1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\overlay1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\pages-header-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\pages-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\paper-3139127_1280.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\paper-3139127_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner2-2.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner2-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\partner2-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\partner2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\pexels-photo-288477.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\pexels-photo-288477.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\play-button.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\play-button.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product6.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product7.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product8.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\product9.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\signin-logo.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\signin-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\single-blog.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\single-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\single-gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\single-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\single-product.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\single-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\single-video.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\single-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\sm.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\smaller-product-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\smaller-product-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\sml1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\sml1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\sml2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\sml2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\sml3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\sml3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\sml4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\sml4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\table-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\table-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\talk-coasts-friends.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\talk-coasts-friends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\team3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\team3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\testimonial-img.png",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\testimonial-img.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\testimonial-index-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\testimonial-index-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline4.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline5.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline6.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\timeline7.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\timeline7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\together.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\together.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\top-header-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\top-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\v.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\video1.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\video1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\video2.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\video2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\video3.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\video3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\images\\vision-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\custom\\images\\vision-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\custom\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\custom\\js\\jquery-data-to.js",
+      "PackagePath": "staticwebassets\\assets\\custom\\js\\jquery-data-to.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\OffCanvasMenuEffects\\css\\menu_sideslide.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\OffCanvasMenuEffects\\css\\menu_sideslide.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\OffCanvasMenuEffects\\js\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\OffCanvasMenuEffects\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\OffCanvasMenuEffects\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\OffCanvasMenuEffects\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\WOW-master\\dist\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\WOW-master\\dist\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\animate.css-master\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css-master\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-4-navbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-4-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap-4-navbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap-4-navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fancybox-master\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fancybox-master\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fancybox-master\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fancybox-master\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\imagesLoaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesLoaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\jQuery.countdown-master\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jQuery.countdown-master\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\jquery-circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery-circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\jquery-circle-progress\\circle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery-circle-progress\\circle.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\jquery\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\loadscreen\\css\\spinkit.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\loadscreen\\css\\spinkit.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\loadscreen\\js\\ju-loading-screen.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\loadscreen\\js\\ju-loading-screen.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\masonry\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\masonry\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\owlcarousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owlcarousel\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\popper\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\portfolio-filter-gallery\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\portfolio-filter-gallery\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\range-slider\\range-slider.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\range-slider\\range-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\range-slider\\range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\range-slider\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\timeline\\jquery.timelify.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\timeline\\jquery.timelify.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\timeline\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\timeline\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\timeline\\timelify.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\timeline\\timelify.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\timeline\\timeline.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\timeline\\timeline.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\timeline\\timeline.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\video-background\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\video-background\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\assets\\vendor\\video-background\\video-background.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\video-background\\video-background.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\20106\\Desktop\\AzkaTask_MVC\\AzkaTask_Solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AzkaTask_Solution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AzkaTask_Solution.props",
+      "PackagePath": "build\\AzkaTask_Solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AzkaTask_Solution.props",
+      "PackagePath": "buildMultiTargeting\\AzkaTask_Solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AzkaTask_Solution.props",
+      "PackagePath": "buildTransitive\\AzkaTask_Solution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

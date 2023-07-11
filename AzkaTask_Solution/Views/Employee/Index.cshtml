@@ -1,0 +1,98 @@
+﻿@using Azure.Core;
+@model IEnumerable<AzkaTask_Solution.Models.Employee>
+
+@{
+    Layout = "_MyLayout";
+    ViewData["Title"] = "Index";
+}
+
+@{
+    int pageSize = 5; 
+    int totalEmployees = Model.Count();
+    int totalPages = (int)Math.Ceiling((double)totalEmployees / pageSize);
+
+    int currentPage = 1;
+    int.TryParse(Context.Request.Query["page"], out currentPage);
+    int skipCount = (currentPage - 1) * pageSize;
+
+    var employeesToShow = Model.Skip(skipCount).Take(pageSize);
+}
+
+<p>
+    <a class="btn btn-warning" href="@Url.Action("Add")">Add Employee</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>BirthDate</th>
+            <th>Vacations</th>
+            <th></th>
+            <th>Qualifications</th>
+            <th>Vacation Days</th>
+            <th>Employee Details</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in employeesToShow)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.BirthDate.ToShortDateString()</td>
+
+                <td><a class="btn btn-dark" href="@Url.Action("VacationsOfEmployee", "Vacation", new { id = item.Id })">Show</a></td>
+                <td><a class="btn btn-danger" href="@Url.Action("Delete", new { id = item.Id ,page = currentPage})">Delete</a></td>
+                <td>@item.Qualifications</td>
+                @if (item.Vacation != null)
+                {
+                    var totalvac = 0;
+                    @foreach (var vacation in item.Vacation.Where(vac => vac.IsDeleted == false))
+                    {
+                        totalvac += vacation.Duration;
+                    }
+                    <td>@totalvac</td>
+                }
+                else
+                {
+                    <td>0</td>
+                }
+                <td><a class="btn btn-success" href="@Url.Action("GetEmployee", new { id = item.Id })">Show</a></td>
+                <td>
+                    @*<a class="btn btn-primary" href="@Url.Action("Update", new { id = item.Id })">Edit</a> |
+                <a class="btn btn-success" href="@Url.Action("GetEmployee", new { id = item.Id })">Details</a> |*@
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination">
+    @if (currentPage > 1)
+    {
+        var prevPageUrl = new Dictionary<string, object> { { "page", currentPage - 1 } };
+        <a href="@Url.Action("Index", prevPageUrl)" class="btn btn-primary mx-5">Previous</a>
+    }
+    @for (int i = 1; i <= totalPages; i++)
+    {
+        var pageUrl = new Dictionary<string, object> { { "page", i } };
+        var linkText = i.ToString();
+
+        if (i == currentPage)
+        {
+            <span class="current-page mx-5">@linkText</span>
+        }
+        else
+        {
+            <a href="@Url.Action("Index", pageUrl)">@linkText</a>
+        }
+    }
+    @if (currentPage < totalPages)
+    {
+        var nextPageUrl = new Dictionary<string, object> { { "page", currentPage + 1 } };
+        <a href="@Url.Action("Index", nextPageUrl)" class="btn btn-primary mx-5">Next</a>
+    }
+</div>
